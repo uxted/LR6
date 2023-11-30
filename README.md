@@ -10,75 +10,75 @@
 
 1. Создание копии в личное хранилище из https://github.com/Kurtyanik/LR6/.
 
-![](OP_LR6\Screenshot_17.png)
+![](OP_LR6/Screenshot_17.png)
 
 2. Настройка клиента git, путем ввода имени пользователя и email.
 
-![](OP_LR6\Screenshot_1.png)
+![](OP_LR6/Screenshot_1.png)
 
 3. Клонирование личного удаленного репозитория на компьютер.
 
-![](OP_LR6\Screenshot_2.png)
+![](OP_LR6/Screenshot_2.png)
 
 4. Добавление файла через интерфейс GitHub.
 
-![](OP_LR6\Screenshot_3.png)
+![](OP_LR6/Screenshot_3.png)
 
 5. Подтягивание изменений в локальный репозиторий.
 
-![](OP_LR6\Screenshot_4.png)
+![](OP_LR6/Screenshot_4.png)
 
 6. История операций для ветки master.
 
-![](OP_LR6\Screenshot_5.png)
+![](OP_LR6/Screenshot_5.png)
 
 7. История операций для ветки branch1.
 
-![](OP_LR6\Screenshot_6.png)
+![](OP_LR6/Screenshot_6.png)
 
 8. Последние изменения.
 
-![](OP_LR6\Screenshot_7.png)
+![](OP_LR6/Screenshot_7.png)
 
 9. Попытка слияния ветки branch1 в ветку master.
 
-![](OP_LR6\Screenshot_8.png)
+![](OP_LR6/Screenshot_8.png)
 
 10. Изменения произошедшие в файле mergefile.txt после попытки слияния.
 
-![](OP_LR6\Screenshot_9.png)
+![](OP_LR6/Screenshot_9.png)
 
 11. Отредактированное содержимое файла для разрешения конфликта.
 
-![](OP_LR6\Screenshot_10.png)
+![](OP_LR6/Screenshot_10.png)
 
 12. Коммит файла.
 
-![](OP_LR6\Screenshot_11.png)
+![](OP_LR6/Screenshot_11.png)
 
 13. Удаление побочной ветки после успешного слияния.
 
-![](OP_LR6\Screenshot_12.png)
+![](OP_LR6/Screenshot_12.png)
 
 14. Создание нескольких коммитов.
 
-![](OP_LR6\Screenshot_13.png)
+![](OP_LR6/Screenshot_13.png)
 
 15. Откат коммита.
 
-![](OP_LR6\Screenshot_14.png)
+![](OP_LR6/Screenshot_14.png)
 
 16. История коммитов.
 
-![](OP_LR6\Screenshot_15.png)
+![](OP_LR6/Screenshot_15.png)
 
 17. Создание ветки для отчета.
 
-![](OP_LR6\Screenshot_16.png)
+![](OP_LR6/Screenshot_16.png)
 
 ## История операций
 
-![](OP_LR6\Screenshot_18.png)
+![](OP_LR6/Screenshot_17.png)
 
 ## Вывод
 
