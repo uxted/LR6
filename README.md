@@ -78,7 +78,7 @@
 
 ## История операций
 
-![](OP_LR6/Screenshot_17.png)
+![](OP_LR6/Screenshot_18.png)
 
 ## Вывод
 
